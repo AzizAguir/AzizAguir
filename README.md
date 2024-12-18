@@ -17,15 +17,5 @@ Full-stack developer with expertise in both front-end and back-end technologies.
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/aziz-aguir](https://linkedin.com/in/aziz-aguir)
-- Email: aziz.aguir@outlook.com
-
-## Languages
-- Arabic (Native)
-- French (TCF C2)
-- English (IELTS 7.5)
-- German (ÖSD A2)
-
-
-
 
 
