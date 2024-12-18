@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aziz
 #### I am Master student and a Fullstack Developer
-![I am Master student and a Fullstack Developer](https://www.linkedin.com/in/aziz-aguir/overlay/background-image/)
+![I am Master student and a Fullstack Developer](https://www.linkedin.com/in/aziz-aguir/)
 
 # Aziz Aguir - Full-Stack Developer
 
