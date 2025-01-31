@@ -8,7 +8,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AzizAguir/AzizAguir/output/snake.svg" alt="Snake animation" />
 
 ###
 
