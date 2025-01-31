@@ -39,6 +39,6 @@
 
 ###
 
-<p align="left">LinkedIn: linkedin.com/in/aziz-aguir</p>
+<p align="left">LinkedIn: <a> linkedin.com/in/aziz-aguir </a></p>
 
 ###
