@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 
 ###
 
@@ -38,6 +36,7 @@
 </div>
 
 ###
+
 
 <p align="left">LinkedIn: <a> linkedin.com/in/aziz-aguir </a></p>
 
